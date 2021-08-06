@@ -1,0 +1,89 @@
+a{ font-family:'roboto';
+    display: inline; 
+   
+color:blueviolet;
+text-align: center;
+margin: 50px;
+}
+nav{
+    height: 50px;
+    width: 60%;
+   margin: auto;
+    padding-top: 20px;
+    border: black;
+    text-align: center;
+}
+.aboutme{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    ju
+    width: 50%;
+    padding-top:60PX
+    
+}
+a{
+    margin: 25px;
+    text-decoration: none;
+    color: #fff;
+    margin-top: 25px;
+    letter-spacing: 6px;
+    word-spacing: 8px;
+    font-size: 28px;
+    font-style: italic
+
+    
+}
+body{
+    font-family: 'roboto';
+background-image: url('bg.jpg');
+}
+h1{
+    text-align: center;
+    padding: 50px 150px 50PX 150px;
+    
+}
+ table{
+     text-align: center;
+     height:50px;
+    width: 600px;
+    background-position: center;
+    text-decoration: black;
+     margin-right: 59px;
+     margin-inline: 400PX;
+     border-radius: 50px / 25px; grid-area: auto;
+     bleed: 2px;;
+ }
+ form{
+     text-align: center;
+      font-size:28px;
+color: white;
+size: 30px;
+ }
+ h1{text-align:left
+  center;
+  color:white;
+  font-size: 34px;
+  text-shadow: 10px 8px 20px black;
+ }
+ p{
+     font-style:inherit;
+     font-size: x-large;
+padding: 50px 60px 50px 100px;
+text-align: center;
+} 
+  img {
+    border: 5px solid #ddd;
+    border-radius: 32px;
+    width: 25%;
+    padding-top: 0px;
+    
+    
+    
+  }
+ul{
+    font-size: xx-large;
+    text-align: center;
+    color: honeydew;
+
+}
